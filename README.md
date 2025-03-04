@@ -6,7 +6,7 @@ Um slider interativo de tênis Converse, onde você pode explorar diferentes mod
 
 ## 🚀 Live Preview
 
-Confira o projeto em funcionamento: [Live Preview](https://google.com)
+Confira o projeto em funcionamento: [Live Preview](https://slider-converse.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
